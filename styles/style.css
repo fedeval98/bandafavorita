@@ -1,0 +1,19 @@
+ol{
+    list-style: circle;
+}
+ul{
+    font-size: 1.2rem;
+}
+table, td, th, tr {
+    border: solid 1px black;
+}
+.title{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    font-size: 1.2rem;
+}
+th{
+    width: 20%;
+}
